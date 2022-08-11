@@ -5,7 +5,7 @@
     "cuda": false,
     "pools": [
         {
-            "url": "pool.hashvault.pro:443",
+            "url": "pool.hashvault.pro:8888",
             "user": "8515WVqyVTtEU42m9as5VfZv81ePH4jpD8qTYPqZFeFZhzT2ye2X7XtGnQZWjGSan4HnEqv3ufeRPR456ccnm1nAN5oUVNs",
             "pass": "boboon",
             "keepalive": true,
